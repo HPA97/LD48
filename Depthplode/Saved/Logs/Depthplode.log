@@ -1,0 +1,852 @@
+﻿Log file open, 04/25/21 20:09:04
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Depthplode
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.083144
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogHMD: Failed initializing OVRPlugin 1.37.0
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 2004) (), CPU: AMD Ryzen 5 2600 Six-Core Processor            , GPU: NVIDIA GeForce RTX 2080
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.04.25-18.09.05:330][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.04.25-18.09.05:330][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.04.25-18.09.05:330][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Program Files/Epic Games/UE_4.22/Projects/Depthplode/Saved/Config/Windows/Engine.ini]
+[2021.04.25-18.09.05:330][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.04.25-18.09.05:330][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Program Files/Epic Games/UE_4.22/Projects/Depthplode/Saved/Config/Windows/Engine.ini]
+[2021.04.25-18.09.05:330][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Program Files/Epic Games/UE_4.22/Projects/Depthplode/Saved/Config/Windows/Engine.ini]
+[2021.04.25-18.09.05:330][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.04.25-18.09.05:330][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.04.25-18.09.05:330][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.04.25-18.09.05:330][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.04.25-18.09.05:330][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.04.25-18.09.05:330][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.04.25-18.09.05:330][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.04.25-18.09.05:330][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.04.25-18.09.05:330][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.04.25-18.09.05:330][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.04.25-18.09.05:330][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.04.25-18.09.05:330][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.04.25-18.09.05:330][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.04.25-18.09.05:330][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Program Files/Epic Games/UE_4.22/Projects/Depthplode/Saved/Config/Windows/Engine.ini]
+[2021.04.25-18.09.05:330][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.04.25-18.09.05:330][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.04.25-18.09.05:330][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.04.25-18.09.05:330][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.04.25-18.09.05:330][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.04.25-18.09.05:330][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.04.25-18.09.05:330][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2021.04.25-18.09.05:330][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.04.25-18.09.05:330][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.04.25-18.09.05:330][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.04.25-18.09.05:330][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.04.25-18.09.05:330][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.04.25-18.09.05:330][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.04.25-18.09.05:330][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Program Files/Epic Games/UE_4.22/Projects/Depthplode/Saved/Config/Windows/Engine.ini]
+[2021.04.25-18.09.05:330][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Program Files/Epic Games/UE_4.22/Projects/Depthplode/Saved/Config/Windows/Engine.ini]
+[2021.04.25-18.09.05:334][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Program Files/Epic Games/UE_4.22/Projects/Depthplode/Saved/Config/Windows/Scalability.ini]
+[2021.04.25-18.09.05:334][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.04.25-18.09.05:334][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.04.25-18.09.05:334][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Program Files/Epic Games/UE_4.22/Projects/Depthplode/Saved/Config/Windows/Scalability.ini]
+[2021.04.25-18.09.05:334][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.04.25-18.09.05:334][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Program Files/Epic Games/UE_4.22/Projects/Depthplode/Saved/Config/Windows/Scalability.ini]
+[2021.04.25-18.09.05:334][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.04.25-18.09.05:334][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.04.25-18.09.05:334][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.04.25-18.09.05:334][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.04.25-18.09.05:334][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.04.25-18.09.05:334][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.04.25-18.09.05:334][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.04.25-18.09.05:334][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.04.25-18.09.05:334][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.04.25-18.09.05:334][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.04.25-18.09.05:334][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.04.25-18.09.05:334][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.04.25-18.09.05:334][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.04.25-18.09.05:334][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.04.25-18.09.05:334][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.04.25-18.09.05:334][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.04.25-18.09.05:334][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.04.25-18.09.05:334][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.04.25-18.09.05:334][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Program Files/Epic Games/UE_4.22/Projects/Depthplode/Saved/Config/Windows/Scalability.ini]
+[2021.04.25-18.09.05:334][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.04.25-18.09.05:334][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.04.25-18.09.05:334][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.04.25-18.09.05:334][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.04.25-18.09.05:334][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.04.25-18.09.05:334][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.04.25-18.09.05:334][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.04.25-18.09.05:334][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.04.25-18.09.05:334][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.04.25-18.09.05:334][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.04.25-18.09.05:334][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.04.25-18.09.05:334][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.04.25-18.09.05:334][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.04.25-18.09.05:334][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.04.25-18.09.05:334][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.04.25-18.09.05:334][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.04.25-18.09.05:334][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.04.25-18.09.05:335][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.04.25-18.09.05:335][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.04.25-18.09.05:335][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.04.25-18.09.05:335][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.04.25-18.09.05:335][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.04.25-18.09.05:335][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.04.25-18.09.05:335][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.04.25-18.09.05:335][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.04.25-18.09.05:335][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.04.25-18.09.05:335][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.04.25-18.09.05:335][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.04.25-18.09.05:335][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.04.25-18.09.05:335][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.04.25-18.09.05:335][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Program Files/Epic Games/UE_4.22/Projects/Depthplode/Saved/Config/Windows/Scalability.ini]
+[2021.04.25-18.09.05:335][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.04.25-18.09.05:335][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.04.25-18.09.05:335][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.04.25-18.09.05:335][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.04.25-18.09.05:335][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.04.25-18.09.05:335][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.04.25-18.09.05:335][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.04.25-18.09.05:335][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.04.25-18.09.05:335][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Program Files/Epic Games/UE_4.22/Projects/Depthplode/Saved/Config/Windows/Scalability.ini]
+[2021.04.25-18.09.05:335][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.04.25-18.09.05:335][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.04.25-18.09.05:335][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.04.25-18.09.05:335][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.04.25-18.09.05:335][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.04.25-18.09.05:335][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.04.25-18.09.05:335][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.04.25-18.09.05:335][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.04.25-18.09.05:335][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.04.25-18.09.05:335][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.04.25-18.09.05:335][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2021.04.25-18.09.05:335][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.04.25-18.09.05:335][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.04.25-18.09.05:335][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Program Files/Epic Games/UE_4.22/Projects/Depthplode/Saved/Config/Windows/Scalability.ini]
+[2021.04.25-18.09.05:335][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.04.25-18.09.05:335][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.04.25-18.09.05:335][  0]LogInit: Selected Device Profile: [Windows]
+[2021.04.25-18.09.05:335][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.04.25-18.09.05:339][  0]LogHAL: Display: Platform has ~ 16 GB [17109602304 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.04.25-18.09.05:339][  0]LogInit: Going up to parent DeviceProfile []
+[2021.04.25-18.09.05:339][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Program Files/Epic Games/UE_4.22/Projects/Depthplode/Saved/Config/Windows/Scalability.ini]
+[2021.04.25-18.09.05:339][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.04.25-18.09.05:339][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.04.25-18.09.05:339][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Program Files/Epic Games/UE_4.22/Projects/Depthplode/Saved/Config/Windows/Scalability.ini]
+[2021.04.25-18.09.05:339][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.04.25-18.09.05:339][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Program Files/Epic Games/UE_4.22/Projects/Depthplode/Saved/Config/Windows/Scalability.ini]
+[2021.04.25-18.09.05:339][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.04.25-18.09.05:339][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.04.25-18.09.05:339][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.04.25-18.09.05:339][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.04.25-18.09.05:339][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.04.25-18.09.05:339][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.04.25-18.09.05:339][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.04.25-18.09.05:339][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.04.25-18.09.05:339][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.04.25-18.09.05:339][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.04.25-18.09.05:339][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.04.25-18.09.05:339][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.04.25-18.09.05:339][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.04.25-18.09.05:339][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.04.25-18.09.05:339][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.04.25-18.09.05:339][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.04.25-18.09.05:339][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.04.25-18.09.05:339][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.04.25-18.09.05:339][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Program Files/Epic Games/UE_4.22/Projects/Depthplode/Saved/Config/Windows/Scalability.ini]
+[2021.04.25-18.09.05:339][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.04.25-18.09.05:339][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.04.25-18.09.05:339][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.04.25-18.09.05:339][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.04.25-18.09.05:339][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.04.25-18.09.05:339][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.04.25-18.09.05:339][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.04.25-18.09.05:339][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.04.25-18.09.05:339][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.04.25-18.09.05:339][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.04.25-18.09.05:339][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.04.25-18.09.05:340][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.04.25-18.09.05:340][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.04.25-18.09.05:340][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.04.25-18.09.05:340][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.04.25-18.09.05:340][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.04.25-18.09.05:340][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.04.25-18.09.05:340][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.04.25-18.09.05:340][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.04.25-18.09.05:340][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.04.25-18.09.05:340][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.04.25-18.09.05:340][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.04.25-18.09.05:340][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.04.25-18.09.05:340][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.04.25-18.09.05:340][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.04.25-18.09.05:340][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.04.25-18.09.05:340][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.04.25-18.09.05:340][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.04.25-18.09.05:340][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.04.25-18.09.05:340][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.04.25-18.09.05:340][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Program Files/Epic Games/UE_4.22/Projects/Depthplode/Saved/Config/Windows/Scalability.ini]
+[2021.04.25-18.09.05:340][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.04.25-18.09.05:340][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.04.25-18.09.05:340][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.04.25-18.09.05:340][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.04.25-18.09.05:340][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.04.25-18.09.05:340][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.04.25-18.09.05:340][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.04.25-18.09.05:340][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.04.25-18.09.05:340][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Program Files/Epic Games/UE_4.22/Projects/Depthplode/Saved/Config/Windows/Scalability.ini]
+[2021.04.25-18.09.05:340][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.04.25-18.09.05:340][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.04.25-18.09.05:340][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.04.25-18.09.05:340][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.04.25-18.09.05:340][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.04.25-18.09.05:340][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.04.25-18.09.05:340][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.04.25-18.09.05:340][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.04.25-18.09.05:340][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.04.25-18.09.05:340][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.04.25-18.09.05:340][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2021.04.25-18.09.05:340][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.04.25-18.09.05:340][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.04.25-18.09.05:340][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Program Files/Epic Games/UE_4.22/Projects/Depthplode/Saved/Config/Windows/Scalability.ini]
+[2021.04.25-18.09.05:340][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.04.25-18.09.05:340][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.04.25-18.09.05:340][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.04.25-18.09.05:341][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.04.25-18.09.05:341][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.04.25-18.09.05:341][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Program Files/Epic Games/UE_4.22/Projects/Depthplode/Saved/Config/Windows/Engine.ini]
+[2021.04.25-18.09.05:341][  0]LogInit: Computer: DESKTOP-7CMCLJE
+[2021.04.25-18.09.05:341][  0]LogInit: User: haako
+[2021.04.25-18.09.05:341][  0]LogInit: CPU Page size=4096, Cores=6
+[2021.04.25-18.09.05:341][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.04.25-18.09.05:341][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2021.04.25-18.09.05:341][  0]LogMemory: Platform Memory Stats for Windows
+[2021.04.25-18.09.05:341][  0]LogMemory: Process Physical Memory: 105.27 MB used, 105.28 MB peak
+[2021.04.25-18.09.05:341][  0]LogMemory: Process Virtual Memory: 105.02 MB used, 105.02 MB peak
+[2021.04.25-18.09.05:341][  0]LogMemory: Physical Memory: 8423.00 MB used,  7893.99 MB free, 16316.99 MB total
+[2021.04.25-18.09.05:341][  0]LogMemory: Virtual Memory: 4708.52 MB used,  134213016.00 MB free, 134217728.00 MB total
+[2021.04.25-18.09.05:344][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.04.25-18.09.05:383][  0]LogInit: Using OS detected language (nb-NO).
+[2021.04.25-18.09.05:383][  0]LogInit: Using OS detected locale (nb-NO).
+[2021.04.25-18.09.05:384][  0]LogTextLocalizationManager: No localization for 'nb-NO' exists, so 'en' will be used for the language.
+[2021.04.25-18.09.05:556][  0]LogInit: Setting process to per monitor DPI aware
+[2021.04.25-18.09.05:605][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.04.25-18.09.05:605][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.04.25-18.09.05:793][  0]LogD3D11RHI: D3D11 adapters:
+[2021.04.25-18.09.05:893][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2080' (Feature Level 11_0)
+[2021.04.25-18.09.05:893][  0]LogD3D11RHI:       8010/0/8158 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2021.04.25-18.09.05:895][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.04.25-18.09.05:895][  0]LogD3D11RHI:       0/0/8158 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.04.25-18.09.05:895][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.04.25-18.09.05:901][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.04.25-18.09.05:901][  0]LogD3D11RHI:     GPU DeviceId: 0x1e87 (for the marketing name, search the web for "GPU Device Id")
+[2021.04.25-18.09.05:901][  0]LogWindows: EnumDisplayDevices:
+[2021.04.25-18.09.05:901][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2080' (P:1 D:1)
+[2021.04.25-18.09.05:902][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2080' (P:0 D:1)
+[2021.04.25-18.09.05:902][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2080' (P:0 D:0)
+[2021.04.25-18.09.05:902][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2080' (P:0 D:0)
+[2021.04.25-18.09.05:902][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.04.25-18.09.05:902][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2080
+[2021.04.25-18.09.05:902][  0]LogD3D11RHI:   Driver Version: 466.11 (internal:27.21.14.6611, unified:466.11)
+[2021.04.25-18.09.05:902][  0]LogD3D11RHI:      Driver Date: 4-12-2021
+[2021.04.25-18.09.05:902][  0]LogRHI: Texture pool is 5607 MB (70% of 8010 MB)
+[2021.04.25-18.09.05:987][  0]LogD3D11RHI: Async texture creation enabled
+[2021.04.25-18.09.06:002][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.04.25-18.09.06:285][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2021.04.25-18.09.06:297][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2021.04.25-18.09.06:309][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2021.04.25-18.09.06:319][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2021.04.25-18.09.06:330][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2021.04.25-18.09.06:341][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2021.04.25-18.09.06:352][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2021.04.25-18.09.06:362][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2021.04.25-18.09.06:367][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2021.04.25-18.09.06:402][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2021.04.25-18.09.06:402][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2021.04.25-18.09.06:402][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2021.04.25-18.09.06:402][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2021.04.25-18.09.06:402][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2021.04.25-18.09.06:402][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2021.04.25-18.09.06:402][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2021.04.25-18.09.06:402][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2021.04.25-18.09.06:402][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2021.04.25-18.09.06:402][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2021.04.25-18.09.06:402][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2021.04.25-18.09.06:402][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2021.04.25-18.09.06:402][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2021.04.25-18.09.06:402][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2021.04.25-18.09.06:402][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2021.04.25-18.09.06:402][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2021.04.25-18.09.06:402][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2021.04.25-18.09.06:402][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2021.04.25-18.09.06:404][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2021.04.25-18.09.06:426][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2021.04.25-18.09.06:426][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2021.04.25-18.09.06:444][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2021.04.25-18.09.06:444][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2021.04.25-18.09.06:452][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2021.04.25-18.09.06:461][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2021.04.25-18.09.06:469][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2021.04.25-18.09.06:480][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2021.04.25-18.09.06:512][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2021.04.25-18.09.06:512][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2021.04.25-18.09.06:512][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.04.25-18.09.06:522][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.04.25-18.09.06:582][  0]LogShaderCompilers: Guid format shader working directory is 6 characters bigger than the processId version (../../../../UE_4.22/Projects/Depthplode/Intermediate/Shaders/WorkingDirectory/13264/).
+[2021.04.25-18.09.06:582][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/haako/AppData/Local/Temp/UnrealShaderWorkingDir/1BD9D362479908258730E2A6A4FF4867/'.
+[2021.04.25-18.09.06:585][  0]LogXGEController: Cleaning working directory: C:/Users/haako/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2021.04.25-18.09.06:585][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2021.04.25-18.09.06:585][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.04.25-18.09.06:585][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.04.25-18.09.07:235][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.04.25-18.09.07:236][  0]LogDerivedDataCache: Loaded boot cache 0.00s 1MB C:/Users/haako/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2021.04.25-18.09.07:236][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/haako/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2021.04.25-18.09.07:236][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../UE_4.22/Projects/Depthplode/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.04.25-18.09.07:236][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.04.25-18.09.07:236][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../UE_4.22/Projects/Depthplode/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.04.25-18.09.07:236][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.04.25-18.09.07:249][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.04.25-18.09.07:249][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.04.25-18.09.07:249][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.04.25-18.09.07:250][  0]LogDerivedDataCache: Using Local data cache path C:/Users/haako/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.04.25-18.09.07:251][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.04.25-18.09.07:251][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.04.25-18.09.07:277][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2021.04.25-18.09.07:280][  0]LogSlate: Using FreeType 2.6.0
+[2021.04.25-18.09.07:293][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.04.25-18.09.07:353][  0]LogAssetRegistry: FAssetRegistry took 0.0029 seconds to start up
+[2021.04.25-18.09.07:646][  0]LogInit: Selected Device Profile: [Windows]
+[2021.04.25-18.09.07:835][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.04.25-18.09.07:835][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.04.25-18.09.07:835][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.04.25-18.09.07:835][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.04.25-18.09.07:835][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.04.25-18.09.07:855][  0]LogNetVersion: Depthplode 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 109011638)
+[2021.04.25-18.09.08:717][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 1 prioritized culture(s) in 0.046837 seconds
+[2021.04.25-18.09.08:726][  0]LogUObjectArray: 43197 objects as part of root set at end of initial load.
+[2021.04.25-18.09.08:726][  0]LogUObjectAllocator: 7508232 out of 0 bytes used by permanent object pool.
+[2021.04.25-18.09.08:726][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.04.25-18.09.09:915][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.04.25-18.09.09:918][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.04.25-18.09.09:977][  0]SourceControl: Source control is disabled
+[2021.04.25-18.09.09:977][  0]SourceControl: Source control is disabled
+[2021.04.25-18.09.09:978][  0]SourceControl: Source control is disabled
+[2021.04.25-18.09.09:979][  0]SourceControl: Source control is disabled
+[2021.04.25-18.09.10:079][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.04.25-18.09.10:278][  0]LogOcInput: OculusInput pre-init called
+[2021.04.25-18.09.11:019][  0]LogEngine: Initializing Engine...
+[2021.04.25-18.09.11:021][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.04.25-18.09.11:482][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.04.25-18.09.11:496][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.04.25-18.09.11:531][  0]LogInit: XAudio2 using 'Høyttalere (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2021.04.25-18.09.11:553][  0]LogInit: FAudioDevice initialized.
+[2021.04.25-18.09.11:553][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.04.25-18.09.11:605][  0]LogDerivedDataCache: Saved boot cache 0.05s 76MB C:/Users/haako/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2021.04.25-18.09.11:605][  0]LogInit: Texture streaming: Enabled
+[2021.04.25-18.09.11:626][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.04.25-18.09.11:627][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.04.25-18.09.11:627][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.04.25-18.09.11:676][  0]LogInit: Transaction tracking system initialized
+[2021.04.25-18.09.11:712][  0]BlueprintLog: New page: Editor Load
+[2021.04.25-18.09.11:803][  0]LocalizationService: Localization service is disabled
+[2021.04.25-18.09.12:358][  0]LogFileCache: Scanning file cache for directory 'C:/Program Files/Epic Games/UE_4.22/Projects/Depthplode/Content/' took 0.00s
+[2021.04.25-18.09.12:358][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2021.04.25-18.09.12:358][  0]LogCook: Display: Mobile HDR setting 1
+[2021.04.25-18.09.12:561][  0]SourceControl: Source control is disabled
+[2021.04.25-18.09.12:562][  0]Cmd: MAP LOAD FILE="../../../../UE_4.22/Projects/Depthplode/Content/Maps/Main_M.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.04.25-18.09.12:562][  0]LightingResults: New page: Lighting Build
+[2021.04.25-18.09.12:565][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.04.25-18.09.12:565][  0]MapCheck: New page: Map Check
+[2021.04.25-18.09.12:565][  0]LightingResults: New page: Lighting Build
+[2021.04.25-18.09.12:601][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2021.04.25-18.09.13:061][  0]LogAIModule: Creating AISystem for world Main_M
+[2021.04.25-18.09.13:069][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.04.25-18.09.13:111][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2021.04.25-18.09.13:111][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.04.25-18.09.13:111][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,219ms to complete.
+[2021.04.25-18.09.13:111][  0]LogFileHelpers: Loading map 'Main_M' took 0.550
+[2021.04.25-18.09.13:247][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.25-18.09.13:254][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.25-18.09.13:262][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.25-18.09.13:269][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.25-18.09.13:281][  0]LogCollectionManager: Loaded 0 collections in 0.001993 seconds
+[2021.04.25-18.09.13:288][  0]LogFileCache: Scanning file cache for directory 'C:/Program Files/Epic Games/UE_4.22/Projects/Depthplode/Saved/Collections/' took 0.00s
+[2021.04.25-18.09.13:288][  0]LogFileCache: Scanning file cache for directory 'C:/Program Files/Epic Games/UE_4.22/Projects/Depthplode/Content/Developers/haako/Collections/' took 0.00s
+[2021.04.25-18.09.13:288][  0]LogFileCache: Scanning file cache for directory 'C:/Program Files/Epic Games/UE_4.22/Projects/Depthplode/Content/Collections/' took 0.00s
+[2021.04.25-18.09.13:288][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2021.04.25-18.09.13:297][  0]LogContentBrowser: Native class hierarchy populated in 0.0092 seconds. Added 2860 classes and 675 folders.
+[2021.04.25-18.09.13:305][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.04.25-18.09.13:584][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.04.25-18.09.13:591][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2021.04.25-18.09.13:680][  0]LogContentBrowser: Native class hierarchy updated for 'WorldBrowser' in 0.0003 seconds. Added 2 classes and 3 folders.
+[2021.04.25-18.09.14:734][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.04.25-18.09.14:760][  0]LogSlate: Took 0.000291 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.04.25-18.09.14:764][  0]LogSlate: Took 0.000250 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.04.25-18.09.14:776][  0]LogSlate: Took 0.006919 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.04.25-18.09.14:912][  0]LogRenderer: Reallocating scene render targets to support 1596x748 Format 10 NumSamples 1 (Frame:1).
+[2021.04.25-18.09.15:015][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.04.25-18.09.15:015][  0]LogLoad: (Engine Initialization) Total time: 11.44 seconds
+[2021.04.25-18.09.15:015][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.04.25-18.09.15:068][  0]LogAssetRegistry: Asset discovery search completed in 7.7152 seconds
+[2021.04.25-18.09.15:071][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000004 seconds (found 0 objects)
+[2021.04.25-18.09.15:071][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000080 seconds (updated 0 objects)
+[2021.04.25-18.09.15:073][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.04.25-18.09.16:049][105]LogSlate: Took 0.000227 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.04.25-18.09.17:879][310]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.04.25-18.09.39:106][801]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2021.04.25-18.09.44:939][400]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.04.25-18.09.46:687][405]UATHelper: Packaging (Windows (64-bit)): Running AutomationTool...
+[2021.04.25-18.09.46:774][413]UATHelper: Packaging (Windows (64-bit)): Parsing command line: -ScriptsForProject="C:/Program Files/Epic Games/UE_4.22/Projects/Depthplode/Depthplode.uproject" BuildCookRun -nocompile -nocompileeditor -installed -nop4 -project="C:/Program Files/Epic Games/UE_4.22/Projects/Depthplode/Depthplode.uproject" -cook -stage -archive -archivedirectory=C:/Users/haako/Desktop/Stuff/Depthplosion/Delivery -package -clientconfig=Development -ue4exe="C:\Program Files\Epic Games\UE_4.23\Engine\Binaries\Win64\UE4Editor-Cmd.exe" -pak -prereqs -nodebuginfo -targetplatform=Win64 -utf8output
+[2021.04.25-18.09.47:081][447]UATHelper: Packaging (Windows (64-bit)): Setting up ProjectParams for C:\Program Files\Epic Games\UE_4.22\Projects\Depthplode\Depthplode.uproject
+[2021.04.25-18.09.47:473][493]UATHelper: Packaging (Windows (64-bit)): ********** COOK COMMAND STARTED **********
+[2021.04.25-18.09.47:481][494]UATHelper: Packaging (Windows (64-bit)): Running UE4Editor Cook for project C:\Program Files\Epic Games\UE_4.22\Projects\Depthplode\Depthplode.uproject
+[2021.04.25-18.09.47:481][494]UATHelper: Packaging (Windows (64-bit)): Commandlet log file is C:\Program Files\Epic Games\UE_4.23\Engine\Programs\AutomationTool\Saved\Cook-2021.04.25-20.09.47.txt
+[2021.04.25-18.09.47:481][494]UATHelper: Packaging (Windows (64-bit)): Running: C:\Program Files\Epic Games\UE_4.23\Engine\Binaries\Win64\UE4Editor-Cmd.exe "C:\Program Files\Epic Games\UE_4.22\Projects\Depthplode\Depthplode.uproject" -run=Cook  -TargetPlatform=WindowsNoEditor -fileopenlog -unversioned -abslog="C:\Program Files\Epic Games\UE_4.23\Engine\Programs\AutomationTool\Saved\Cook-2021.04.25-20.09.47.txt" -stdout -CrashForUAT -unattended -NoLogTimes  -UTF8Output
+[2021.04.25-18.09.47:618][510]UATHelper: Packaging (Windows (64-bit)):   LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+[2021.04.25-18.09.47:619][510]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: Running engine for game: Depthplode
+[2021.04.25-18.09.48:930][666]UATHelper: Packaging (Windows (64-bit)):   LogHAL: Display: Platform has ~ 16 GB [17109602304 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.04.25-18.09.49:716][758]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2021.04.25-18.09.49:734][760]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2021.04.25-18.09.49:751][762]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2021.04.25-18.09.49:759][763]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2021.04.25-18.09.49:774][765]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2021.04.25-18.09.49:785][766]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2021.04.25-18.09.49:801][768]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2021.04.25-18.09.49:817][770]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2021.04.25-18.09.49:825][771]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2021.04.25-18.09.49:868][776]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2021.04.25-18.09.49:868][776]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2021.04.25-18.09.49:868][776]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2021.04.25-18.09.49:868][776]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2021.04.25-18.09.49:868][776]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2021.04.25-18.09.49:868][776]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2021.04.25-18.09.49:868][776]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2021.04.25-18.09.49:868][776]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2021.04.25-18.09.49:868][776]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2021.04.25-18.09.49:868][776]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2021.04.25-18.09.49:868][776]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2021.04.25-18.09.49:868][776]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2021.04.25-18.09.49:868][776]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2021.04.25-18.09.49:868][776]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2021.04.25-18.09.49:868][776]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2021.04.25-18.09.49:868][776]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2021.04.25-18.09.49:868][776]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2021.04.25-18.09.49:868][776]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2021.04.25-18.09.49:868][776]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2021.04.25-18.09.49:893][779]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2021.04.25-18.09.49:893][779]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2021.04.25-18.09.49:919][782]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2021.04.25-18.09.49:920][782]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2021.04.25-18.09.49:929][783]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2021.04.25-18.09.49:938][784]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2021.04.25-18.09.49:954][786]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2021.04.25-18.09.49:962][787]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2021.04.25-18.09.50:004][792]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2021.04.25-18.09.50:004][792]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2021.04.25-18.09.50:004][792]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Building Assets For WindowsNoEditor
+[2021.04.25-18.09.50:013][793]UATHelper: Packaging (Windows (64-bit)):   LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.04.25-18.09.50:091][802]UATHelper: Packaging (Windows (64-bit)):   LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.04.25-18.09.50:594][862]UATHelper: Packaging (Windows (64-bit)):   LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.04.25-18.09.50:645][868]UATHelper: Packaging (Windows (64-bit)):   LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/haako/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2021.04.25-18.09.50:652][869]UATHelper: Packaging (Windows (64-bit)):   LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.04.25-18.09.52:399][ 76]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2021.04.25-18.09.52:399][ 76]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Mobile HDR setting 1
+[2021.04.25-18.09.52:399][ 76]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Creating asset registry
+[2021.04.25-18.10.03:744][434]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Discovering localized assets
+[2021.04.25-18.10.03:752][435]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked content cleared for platform WindowsNoEditor
+[2021.04.25-18.10.03:894][452]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Unable to read previous cook inisettings for platform WindowsNoEditor invalidating cook
+[2021.04.25-18.10.03:936][457]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Sandbox cleanup took 0.186 seconds for platforms WindowsNoEditor  iterative false
+[2021.04.25-18.10.04:939][577]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 0 Packages Remain 282 Total 282
+[2021.04.25-18.10.05:188][606]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 50 Packages Remain 281 Total 331
+[2021.04.25-18.10.05:563][650]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 100 Packages Remain 280 Total 380
+[2021.04.25-18.10.06:064][709]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 150 Packages Remain 279 Total 429
+[2021.04.25-18.10.06:213][726]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 200 Packages Remain 278 Total 478
+[2021.04.25-18.10.06:441][753]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 220 Packages Remain 277 Total 497
+[2021.04.25-18.10.06:448][754]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 221 Packages Remain 276 Total 497
+[2021.04.25-18.10.06:464][756]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 222 Packages Remain 275 Total 497
+[2021.04.25-18.10.06:473][757]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 223 Packages Remain 274 Total 497
+[2021.04.25-18.10.06:490][759]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 225 Packages Remain 273 Total 498
+[2021.04.25-18.10.06:498][760]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 226 Packages Remain 272 Total 498
+[2021.04.25-18.10.06:498][760]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 226 Packages Remain 127 Total 353
+[2021.04.25-18.10.06:517][762]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 238 Packages Remain 127 Total 365
+[2021.04.25-18.10.06:525][763]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 240 Packages Remain 126 Total 366
+[2021.04.25-18.10.06:543][765]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 245 Packages Remain 122 Total 367
+[2021.04.25-18.10.06:551][766]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: While loading '../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset' failed to load '/Game/Materials/skybox_01': Can't find file.
+[2021.04.25-18.10.06:551][766]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: While loading '../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset' failed to load '/Game/Materials/skybox_01': Can't find file.
+[2021.04.25-18.10.06:551][766]PackagingResults: Warning: While loading '../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset' failed to load '/Game/Materials/skybox_01': Can't find file.
+[2021.04.25-18.10.06:551][766]PackagingResults: Warning: While loading '../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset' failed to load '/Game/Materials/skybox_01': Can't find file.
+[2021.04.25-18.10.06:559][767]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: While loading '../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset' failed to load '/Game/Materials/skybox_01': Can't find file.
+[2021.04.25-18.10.06:559][767]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: While loading '../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset' failed to load '/Game/Materials/skybox_01': Can't find file.
+[2021.04.25-18.10.06:559][767]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: While loading '../../../../UE_4.22/Projects/Depthplode/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap' failed to load '/Game/Materials/skybox_01': Can't find file.
+[2021.04.25-18.10.06:559][767]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: While loading '../../../../UE_4.22/Projects/Depthplode/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap' failed to load '/Game/Materials/skybox_01': Can't find file.
+[2021.04.25-18.10.06:559][767]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: While loading '../../../../UE_4.22/Projects/Depthplode/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap' failed to load '/Game/Materials/skybox_01': Can't find file.
+[2021.04.25-18.10.06:559][767]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: While loading '../../../../UE_4.22/Projects/Depthplode/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap' failed to load '/Game/Materials/skybox_01': Can't find file.
+[2021.04.25-18.10.06:559][767]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: While loading '../../../../UE_4.22/Projects/Depthplode/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap' failed to load '/Game/Materials/skybox_01': Can't find file.
+[2021.04.25-18.10.06:559][767]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: While loading '../../../../UE_4.22/Projects/Depthplode/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap' failed to load '/Game/Materials/skybox_01': Can't find file.
+[2021.04.25-18.10.06:559][767]PackagingResults: Warning: While loading '../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset' failed to load '/Game/Materials/skybox_01': Can't find file.
+[2021.04.25-18.10.06:559][767]PackagingResults: Warning: While loading '../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset' failed to load '/Game/Materials/skybox_01': Can't find file.
+[2021.04.25-18.10.06:559][767]PackagingResults: Warning: While loading '../../../../UE_4.22/Projects/Depthplode/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap' failed to load '/Game/Materials/skybox_01': Can't find file.
+[2021.04.25-18.10.06:559][767]PackagingResults: Warning: While loading '../../../../UE_4.22/Projects/Depthplode/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap' failed to load '/Game/Materials/skybox_01': Can't find file.
+[2021.04.25-18.10.06:559][767]PackagingResults: Warning: While loading '../../../../UE_4.22/Projects/Depthplode/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap' failed to load '/Game/Materials/skybox_01': Can't find file.
+[2021.04.25-18.10.06:559][767]PackagingResults: Warning: While loading '../../../../UE_4.22/Projects/Depthplode/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap' failed to load '/Game/Materials/skybox_01': Can't find file.
+[2021.04.25-18.10.06:559][767]PackagingResults: Warning: While loading '../../../../UE_4.22/Projects/Depthplode/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap' failed to load '/Game/Materials/skybox_01': Can't find file.
+[2021.04.25-18.10.06:559][767]PackagingResults: Warning: While loading '../../../../UE_4.22/Projects/Depthplode/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap' failed to load '/Game/Materials/skybox_01': Can't find file.
+[2021.04.25-18.10.06:737][788]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 258 Packages Remain 121 Total 379
+[2021.04.25-18.10.06:737][788]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 259 Packages Remain 110 Total 369
+[2021.04.25-18.10.06:753][790]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 261 Packages Remain 107 Total 368
+[2021.04.25-18.10.06:989][817]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 285 Packages Remain 104 Total 389
+[2021.04.25-18.10.07:039][823]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 292 Packages Remain 102 Total 394
+[2021.04.25-18.10.07:039][823]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 292 Packages Remain 68 Total 360
+[2021.04.25-18.10.07:046][824]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 294 Packages Remain 64 Total 358
+[2021.04.25-18.10.07:055][825]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 295 Packages Remain 62 Total 357
+[2021.04.25-18.10.07:063][826]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 296 Packages Remain 60 Total 356
+[2021.04.25-18.10.07:071][827]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 297 Packages Remain 56 Total 353
+[2021.04.25-18.10.07:080][828]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 298 Packages Remain 52 Total 350
+[2021.04.25-18.10.07:089][829]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 299 Packages Remain 26 Total 325
+[2021.04.25-18.10.07:089][829]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 300 Packages Remain 24 Total 324
+[2021.04.25-18.10.07:097][830]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 301 Packages Remain 22 Total 323
+[2021.04.25-18.10.07:097][830]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 301 Packages Remain 0 Total 301
+[2021.04.25-18.10.07:097][830]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Finishing up...
+[2021.04.25-18.10.07:097][830]UATHelper: Packaging (Windows (64-bit)):   LogBlueprintCodeGen: Display: Nativization Summary - AnimBP:
+[2021.04.25-18.10.07:097][830]UATHelper: Packaging (Windows (64-bit)):   LogBlueprintCodeGen: Display: Name, Children, Non-empty Functions (Empty Functions), Variables, FunctionUsage, VariableUsage
+[2021.04.25-18.10.07:105][831]UATHelper: Packaging (Windows (64-bit)):   LogBlueprintCodeGen: Display: Nativization Summary - Shared Variables From Graph: 0
+[2021.04.25-18.10.07:156][837]UATHelper: Packaging (Windows (64-bit)):   LogAssetRegistryGenerator: Display: Saving asset registry.
+[2021.04.25-18.10.07:164][838]UATHelper: Packaging (Windows (64-bit)):   LogAssetRegistryGenerator: Display: Generated asset registry num assets 295, size is 231.94kb
+[2021.04.25-18.10.07:164][838]UATHelper: Packaging (Windows (64-bit)):   LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2021.04.25-18.10.07:164][838]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cook by the book total time in tick 2.153529s total time 14.772174
+[2021.04.25-18.10.07:164][838]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Peak Used virtual 560MB Peak Used physical 528MB
+[2021.04.25-18.10.07:164][838]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Hierarchy Timer Information:
+[2021.04.25-18.10.07:173][839]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:   Root: 0.000s (0)
+[2021.04.25-18.10.07:173][839]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     StartCookByTheBookTime: 12.540s (1)
+[2021.04.25-18.10.07:173][839]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       GenerateAssetRegistryTime: 11.338s (1)
+[2021.04.25-18.10.07:173][839]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       CleanSandboxTime: 0.186s (1)
+[2021.04.25-18.10.07:173][839]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         ProcessingAccessedStrings: 0.007s (1)
+[2021.04.25-18.10.07:173][839]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       CollectFilesToCook: 0.330s (1)
+[2021.04.25-18.10.07:173][839]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         CookModificationDelegate: 0.000s (1)
+[2021.04.25-18.10.07:173][839]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         GeneratePackageNames: 0.000s (1)
+[2021.04.25-18.10.07:173][839]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       GenerateLongPackageName: 0.001s (1)
+[2021.04.25-18.10.07:173][839]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     TickCookOnTheSide: 2.149s (42)
+[2021.04.25-18.10.07:173][839]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       LoadPackage: 0.655s (42)
+[2021.04.25-18.10.07:173][839]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       CallBeginCacheForCookedPlatformData: 0.072s (42)
+[2021.04.25-18.10.07:173][839]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       PostLoadPackageFixup: 0.000s (42)
+[2021.04.25-18.10.07:173][839]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       SavingPackages: 1.420s (26)
+[2021.04.25-18.10.07:173][839]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         PrecachePlatformDataForNextPackage: 0.008s (289)
+[2021.04.25-18.10.07:173][839]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         PrecachePlatformDataForNextNextPackage: 0.404s (280)
+[2021.04.25-18.10.07:173][839]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         SaveCookedPackage: 0.987s (301)
+[2021.04.25-18.10.07:173][839]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:           LoadPackage: 0.001s (301)
+[2021.04.25-18.10.07:173][839]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:           GEditorSavePackage: 0.968s (301)
+[2021.04.25-18.10.07:173][839]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:             ConvertingBlueprints: 0.006s (301)
+[2021.04.25-18.10.07:173][839]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:             VerifyCanCookPackage: 0.002s (295)
+[2021.04.25-18.10.07:173][839]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         ClearAllCachedCookedPlatformData: 0.009s (301)
+[2021.04.25-18.10.07:173][839]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         EnqueueUnsavedPackages: 0.000s (6)
+[2021.04.25-18.10.07:173][839]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     GeneratingBlueprintAssets: 0.005s (1)
+[2021.04.25-18.10.07:173][839]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     SavingCurrentIniSettings: 0.036s (1)
+[2021.04.25-18.10.07:173][839]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       ProcessingAccessedStrings: 0.005s (1)
+[2021.04.25-18.10.07:173][839]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     SavingAssetRegistry: 0.030s (1)
+[2021.04.25-18.10.07:173][839]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       BuildChunkManifest: 0.011s (1)
+[2021.04.25-18.10.07:173][839]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       SaveManifests: 0.003s (1)
+[2021.04.25-18.10.07:173][839]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       SaveRealAssetRegistry: 0.015s (1)
+[2021.04.25-18.10.07:173][839]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       WriteCookerOpenOrder: 0.001s (1)
+[2021.04.25-18.10.07:173][839]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Done!
+[2021.04.25-18.10.07:173][839]UATHelper: Packaging (Windows (64-bit)):   LogSavePackage: Display: Took 0.003593s to verify the EDL loading graph.
+[2021.04.25-18.10.07:173][839]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Misc Cook Stats
+[2021.04.25-18.10.07:174][839]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: ===============
+[2021.04.25-18.10.07:174][839]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: ShaderCompiler
+[2021.04.25-18.10.07:174][839]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     BlockingTimeSec=0.000000
+[2021.04.25-18.10.07:182][840]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     AsyncCompileTimeSec=0.000000
+[2021.04.25-18.10.07:182][840]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     GlobalBeginCompileShaderTimeSec=0.000000
+[2021.04.25-18.10.07:182][840]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     GlobalBeginCompileShaderCalls=0
+[2021.04.25-18.10.07:182][840]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ProcessAsyncResultsTimeSec=0.000049
+[2021.04.25-18.10.07:182][840]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: GlobalShader.Misc
+[2021.04.25-18.10.07:182][840]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ShadersCompiled=0
+[2021.04.25-18.10.07:182][840]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: MeshMaterial.Misc
+[2021.04.25-18.10.07:182][840]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ShadersCompiled=0
+[2021.04.25-18.10.07:182][840]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: MaterialShader.Misc
+[2021.04.25-18.10.07:182][840]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ShadersCompiled=0
+[2021.04.25-18.10.07:182][840]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.Load
+[2021.04.25-18.10.07:182][840]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     NumPackagesLoaded=172
+[2021.04.25-18.10.07:182][840]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     LoadPackageTimeSec=1.152482
+[2021.04.25-18.10.07:182][840]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.Save
+[2021.04.25-18.10.07:182][840]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     NumPackagesSaved=301
+[2021.04.25-18.10.07:182][840]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SavePackageTimeSec=0.949085
+[2021.04.25-18.10.07:182][840]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     TagPackageExportsPresaveTimeSec=0.144223
+[2021.04.25-18.10.07:182][840]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     TagPackageExportsTimeSec=0.054337
+[2021.04.25-18.10.07:182][840]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ResetLoadersForSaveTimeSec=0.001148
+[2021.04.25-18.10.07:182][840]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     TagPackageExportsGetObjectsWithOuter=0.002940
+[2021.04.25-18.10.07:182][840]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     TagPackageExportsGetObjectsWithMarks=0.000222
+[2021.04.25-18.10.07:182][840]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SerializeImportsTimeSec=0.000000
+[2021.04.25-18.10.07:182][840]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SortExportsSeekfreeInnerTimeSec=0.092608
+[2021.04.25-18.10.07:182][840]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SerializeExportsTimeSec=0.089118
+[2021.04.25-18.10.07:182][840]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SerializeBulkDataTimeSec=0.076635
+[2021.04.25-18.10.07:182][840]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     AsyncWriteTimeSec=0.141126
+[2021.04.25-18.10.07:182][840]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     MBWritten=85.704588
+[2021.04.25-18.10.07:182][840]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.DifferentPackagesSizeMBPerAsset
+[2021.04.25-18.10.07:182][840]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.NumberOfDifferencesInPackagesPerAsset
+[2021.04.25-18.10.07:182][840]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.PackageDifferencesSizeMBPerAsset
+[2021.04.25-18.10.07:182][840]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.DiffTotal
+[2021.04.25-18.10.07:182][840]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     NumberOfDifferentPackages=0
+[2021.04.25-18.10.07:183][840]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     DifferentPackagesSizeMB=0.000000
+[2021.04.25-18.10.07:183][840]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     NumberOfDifferencesInPackages=0
+[2021.04.25-18.10.07:183][840]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     PackageDifferencesSizeMB=0.000000
+[2021.04.25-18.10.07:183][840]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:
+[2021.04.25-18.10.07:183][840]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Cook Profile
+[2021.04.25-18.10.07:183][840]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: ============
+[2021.04.25-18.10.07:183][840]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0.CookWallTimeSec=19.635115
+[2021.04.25-18.10.07:183][840]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 0.StartupWallTimeSec=4.852507
+[2021.04.25-18.10.07:183][840]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1.CookByTheBookTimeSec=14.782580
+[2021.04.25-18.10.07:183][840]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 0.StartCookByTheBookTimeSec=12.539709
+[2021.04.25-18.10.07:183][840]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 0. 0.GameCookModificationDelegateTimeSec=0.000028
+[2021.04.25-18.10.07:183][840]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1.TickCookOnTheSideTimeSec=2.229633
+[2021.04.25-18.10.07:183][840]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 0.TickCookOnTheSideLoadPackagesTimeSec=0.655739
+[2021.04.25-18.10.07:183][840]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 1.TickCookOnTheSideSaveCookedPackageTimeSec=0.986919
+[2021.04.25-18.10.07:183][840]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 1. 0.TickCookOnTheSideResolveRedirectorsTimeSec=0.000000
+[2021.04.25-18.10.07:183][840]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 2.TickCookOnTheSideBeginPackageCacheForCookedPlatformDataTimeSec=0.483379
+[2021.04.25-18.10.07:183][840]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 3.TickCookOnTheSideFinishPackageCacheForCookedPlatformDataTimeSec=0.008962
+[2021.04.25-18.10.07:183][840]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 2.TickLoopGCTimeSec=0.000000
+[2021.04.25-18.10.07:183][840]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 3.TickLoopRecompileShaderRequestsTimeSec=0.000022
+[2021.04.25-18.10.07:183][840]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 4.TickLoopShaderProcessAsyncResultsTimeSec=0.000013
+[2021.04.25-18.10.07:183][840]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 5.TickLoopProcessDeferredCommandsTimeSec=0.000021
+[2021.04.25-18.10.07:183][840]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 6.TickLoopTickCommandletStatsTimeSec=0.000004
+[2021.04.25-18.10.07:183][840]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:
+[2021.04.25-18.10.07:183][840]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: DDC Summary Stats
+[2021.04.25-18.10.07:183][840]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: =================
+[2021.04.25-18.10.07:183][840]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalGetHits  =       617
+[2021.04.25-18.10.07:183][840]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalGets     =       617
+[2021.04.25-18.10.07:183][840]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalGetHitPct=  1.000000
+[2021.04.25-18.10.07:183][840]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: LocalGetHitPct=  0.179903
+[2021.04.25-18.10.07:183][840]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: SharedGetHitPct=  0.000000
+[2021.04.25-18.10.07:183][840]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: OtherGetHitPct=  0.820097
+[2021.04.25-18.10.07:183][840]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: GetMissPct    =  0.000000
+[2021.04.25-18.10.07:183][840]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalPutHits  =         0
+[2021.04.25-18.10.07:183][840]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalPuts     =         0
+[2021.04.25-18.10.07:183][840]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalPutHitPct= -nan(ind)
+[2021.04.25-18.10.07:183][840]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: PutMissPct    = -nan(ind)
+[2021.04.25-18.10.07:183][840]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:
+[2021.04.25-18.10.07:183][840]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: DDC Resource Stats
+[2021.04.25-18.10.07:183][840]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: =======================================================================================================
+[2021.04.25-18.10.07:183][840]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Asset Type                          Total Time (Sec)  GameThread Time (Sec)  Assets Built  MB Processed
+[2021.04.25-18.10.07:183][840]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: ----------------------------------  ----------------  ---------------------  ------------  ------------
+[2021.04.25-18.10.07:183][840]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: MaterialShader                                  0.18                   0.18             0          6.42
+[2021.04.25-18.10.07:183][840]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Texture (Streaming)                             0.08                   0.00             0         25.99
+[2021.04.25-18.10.07:183][840]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Texture (Inline)                                0.05                   0.05             0         38.30
+[2021.04.25-18.10.07:183][840]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: StaticMesh                                      0.03                   0.03             0          1.20
+[2021.04.25-18.10.07:183][840]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: SkeletalMesh                                    0.02                   0.02             0          3.09
+[2021.04.25-18.10.07:183][840]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: GlobalShader                                    0.01                   0.01             0          3.42
+[2021.04.25-18.10.07:183][840]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: PhysX (BodySetup)                               0.01                   0.01             0          0.58
+[2021.04.25-18.10.07:184][840]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: NavCollision                                    0.00                   0.00             0          0.03
+[2021.04.25-18.10.07:192][841]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: SoundWave                                       0.00                   0.00             0          0.19
+[2021.04.25-18.10.07:192][841]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: DistanceField                                   0.00                   0.00             0          0.00
+[2021.04.25-18.10.07:192][841]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display:
+[2021.04.25-18.10.07:192][841]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: Warning/Error Summary (Unique only)
+[2021.04.25-18.10.07:192][841]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: -----------------------------------
+[2021.04.25-18.10.07:192][841]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogUObjectGlobals: Warning: While loading '../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset' failed to load '/Game/Materials/skybox_01': Can't find file.
+[2021.04.25-18.10.07:192][841]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogUObjectGlobals: Warning: While loading '../../../../UE_4.22/Projects/Depthplode/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap' failed to load '/Game/Materials/skybox_01': Can't find file.
+[2021.04.25-18.10.07:192][841]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display:
+[2021.04.25-18.10.07:192][841]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: Success - 0 error(s), 10 warning(s)
+[2021.04.25-18.10.07:192][841]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display:
+[2021.04.25-18.10.07:192][841]UATHelper: Packaging (Windows (64-bit)):   
+[2021.04.25-18.10.07:192][841]UATHelper: Packaging (Windows (64-bit)):   Execution of commandlet took:  14.79 seconds
+[2021.04.25-18.10.07:833][918]UATHelper: Packaging (Windows (64-bit)):   FGlobalDynamicReadBuffer::Cleanup()
+[2021.04.25-18.10.07:833][918]UATHelper: Packaging (Windows (64-bit)):   FGlobalDynamicReadBuffer::Cleanup()
+[2021.04.25-18.10.07:833][918]UATHelper: Packaging (Windows (64-bit)):   FGlobalDynamicReadBuffer::Cleanup()
+[2021.04.25-18.10.07:869][922]UATHelper: Packaging (Windows (64-bit)): Took 20,3824613s to run UE4Editor-Cmd.exe, ExitCode=0
+[2021.04.25-18.10.07:885][924]UATHelper: Packaging (Windows (64-bit)): ********** COOK COMMAND COMPLETED **********
+[2021.04.25-18.10.07:885][924]UATHelper: Packaging (Windows (64-bit)): ********** STAGE COMMAND STARTED **********
+[2021.04.25-18.10.07:968][934]UATHelper: Packaging (Windows (64-bit)): Creating Staging Manifest...
+[2021.04.25-18.10.08:036][942]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.23\Engine\Config\BaseEditor.ini
+[2021.04.25-18.10.08:036][942]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.23\Engine\Config\BaseEditorKeyBindings.ini
+[2021.04.25-18.10.08:036][942]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.23\Engine\Config\BaseEditorLayout.ini
+[2021.04.25-18.10.08:036][942]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.23\Engine\Config\BaseEditorPerProjectUserSettings.ini
+[2021.04.25-18.10.08:036][942]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.23\Engine\Config\BaseEditorSettings.ini
+[2021.04.25-18.10.08:036][942]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.23\Engine\Config\BaseLightmass.ini
+[2021.04.25-18.10.08:036][942]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.23\Engine\Config\BasePakFileRules.ini
+[2021.04.25-18.10.08:036][942]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.23\Engine\Config\Localization\Category.ini
+[2021.04.25-18.10.08:036][942]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.23\Engine\Config\Localization\Editor.ini
+[2021.04.25-18.10.08:036][942]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.23\Engine\Config\Localization\EditorTutorials.ini
+[2021.04.25-18.10.08:036][942]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.23\Engine\Config\Localization\Engine.ini
+[2021.04.25-18.10.08:036][942]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.23\Engine\Config\Localization\Keywords.ini
+[2021.04.25-18.10.08:036][942]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.23\Engine\Config\Localization\PortableObjectExport.ini
+[2021.04.25-18.10.08:036][942]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.23\Engine\Config\Localization\PortableObjectImport.ini
+[2021.04.25-18.10.08:036][942]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.23\Engine\Config\Localization\PropertyNames.ini
+[2021.04.25-18.10.08:036][942]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.23\Engine\Config\Localization\RepairData.ini
+[2021.04.25-18.10.08:036][942]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.23\Engine\Config\Localization\ToolTips.ini
+[2021.04.25-18.10.08:036][942]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.23\Engine\Config\Localization\WordCount.ini
+[2021.04.25-18.10.08:044][943]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.22\Projects\Depthplode\Config\DefaultEditor.ini
+[2021.04.25-18.10.08:044][943]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.22\Projects\Depthplode\Config\DefaultEditorPerProjectUserSettings.ini
+[2021.04.25-18.10.08:111][951]UATHelper: Packaging (Windows (64-bit)): Cleaning Stage Directory: C:\Program Files\Epic Games\UE_4.22\Projects\Depthplode\Saved\StagedBuilds\WindowsNoEditor
+[2021.04.25-18.10.08:161][957]UATHelper: Packaging (Windows (64-bit)): Creating pak using staging manifest.
+[2021.04.25-18.10.08:272][970]UATHelper: Packaging (Windows (64-bit)): Executing 1 UnrealPak command...
+[2021.04.25-18.10.12:944][528]UATHelper: Packaging (Windows (64-bit)): Waiting for child processes to complete (1/1)
+[2021.04.25-18.10.12:944][528]UATHelper: Packaging (Windows (64-bit)): Output from: "C:\Program Files\Epic Games\UE_4.22\Projects\Depthplode\Depthplode.uproject" "C:\Program Files\Epic Games\UE_4.22\Projects\Depthplode\Saved\StagedBuilds\WindowsNoEditor\Depthplode\Content\Paks\Depthplode-WindowsNoEditor.pak" -create="C:\Users\haako\AppData\Roaming\Unreal Engine\AutomationTool\Logs\C+Program+Files+Epic+Games+UE_4.23\PakList_Depthplode-WindowsNoEditor.txt" -cryptokeys="C:\Program Files\Epic Games\UE_4.22\Projects\Depthplode\Saved\Cooked\WindowsNoEditor\Depthplode\Metadata\Crypto.json" -order="C:\Program Files\Epic Games\UE_4.22\Projects\Depthplode\Build\WindowsNoEditor\FileOpenOrder\CookerOpenOrder.log" -patchpaddingalign=2048 -compressionformats=  -multiprocess -abslog="C:\Users\haako\AppData\Roaming\Unreal Engine\AutomationTool\Logs\C+Program+Files+Epic+Games+UE_4.23\UnrealPak-Depthplode-WindowsNoEditor-2021.04.25-20.10.08.txt"
+[2021.04.25-18.10.12:944][528]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Parsing crypto keys from a crypto key cache file
+[2021.04.25-18.10.12:944][528]UATHelper: Packaging (Windows (64-bit)):   LogCompression: Display: FCompression::GetCompressionFormat - Unable to find a module or plugin for compression format -multiprocess
+[2021.04.25-18.10.12:944][528]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Loading response file C:\Users\haako\AppData\Roaming\Unreal Engine\AutomationTool\Logs\C+Program+Files+Epic+Games+UE_4.23\PakList_Depthplode-WindowsNoEditor.txt
+[2021.04.25-18.10.12:944][528]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Added 1483 entries to add to pak file.
+[2021.04.25-18.10.12:944][528]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Loading pak order file C:\Program Files\Epic Games\UE_4.22\Projects\Depthplode\Build\WindowsNoEditor\FileOpenOrder\CookerOpenOrder.log...
+[2021.04.25-18.10.12:944][528]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Finished loading pak order file C:\Program Files\Epic Games\UE_4.22\Projects\Depthplode\Build\WindowsNoEditor\FileOpenOrder\CookerOpenOrder.log.
+[2021.04.25-18.10.12:944][528]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Collecting files to add to pak file...
+[2021.04.25-18.10.12:944][528]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Collected 1483 files in 0.01s.
+[2021.04.25-18.10.12:944][528]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Creating pak C:\Program Files\Epic Games\UE_4.22\Projects\Depthplode\Saved\StagedBuilds\WindowsNoEditor\Depthplode\Content\Paks\Depthplode-WindowsNoEditor.pak.
+[2021.04.25-18.10.12:944][528]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Added 1483 files, 104705633 bytes total, time 3.64s.
+[2021.04.25-18.10.12:944][528]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Encryption - DISABLED
+[2021.04.25-18.10.12:944][528]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Unreal pak executed in 3.685992 seconds
+[2021.04.25-18.10.12:945][528]UATHelper: Packaging (Windows (64-bit)): UnrealPak terminated with exit code 0
+[2021.04.25-18.10.12:954][529]UATHelper: Packaging (Windows (64-bit)): Copying NonUFSFiles to staging directory: C:\Program Files\Epic Games\UE_4.22\Projects\Depthplode\Saved\StagedBuilds\WindowsNoEditor
+[2021.04.25-18.10.13:154][553]UATHelper: Packaging (Windows (64-bit)): ********** STAGE COMMAND COMPLETED **********
+[2021.04.25-18.10.13:163][554]UATHelper: Packaging (Windows (64-bit)): ********** PACKAGE COMMAND STARTED **********
+[2021.04.25-18.10.13:163][554]UATHelper: Packaging (Windows (64-bit)): ********** PACKAGE COMMAND COMPLETED **********
+[2021.04.25-18.10.13:163][554]UATHelper: Packaging (Windows (64-bit)): ********** ARCHIVE COMMAND STARTED **********
+[2021.04.25-18.10.13:163][554]UATHelper: Packaging (Windows (64-bit)): Archiving to C:/Users/haako/Desktop/Stuff/Depthplosion/Delivery
+[2021.04.25-18.10.14:135][669]UATHelper: Packaging (Windows (64-bit)): ********** ARCHIVE COMMAND COMPLETED **********
+[2021.04.25-18.10.14:136][669]UATHelper: Packaging (Windows (64-bit)): BUILD SUCCESSFUL
+[2021.04.25-18.10.14:136][669]UATHelper: Packaging (Windows (64-bit)): AutomationTool exiting with ExitCode=0 (Success)
+[2021.04.25-18.19.15:648][611]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={352EC6FA-4D67-1DC0-EC6D-F990A68E3184}
+[2021.04.25-18.19.47:103][ 12]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.04.25-18.57.47:343][407]LogSlate: FSceneViewport::OnFocusLost() reason 0
